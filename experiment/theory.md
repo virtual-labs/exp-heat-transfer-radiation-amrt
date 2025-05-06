@@ -41,7 +41,7 @@ If a sample is replaced by a black body of temperature of same area at same temp
   <img src="./images/figure3.jpg" alt="Figure 1" style="max-width: 300px; height: auto;">
   <p style="text-align: center; font-size: smaller; font-style: italic;"></p>
 </div>
-Consider two flat infinite plates, surface A and surface B, both emitting radiation towards one another. Surface B is assumed to be an ideal emitter $\varepsilon$ B=1
+Consider two flat infinite plates, surface A and surface B, both emitting radiation towards one another. Surface B is assumed to be an ideal emitter $$\varepsilon$$B=1
 
 Surface A will emit radiation according to Stefan's Boltzmann law as
 
