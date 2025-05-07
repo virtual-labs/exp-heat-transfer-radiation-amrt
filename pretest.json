@@ -1,0 +1,29 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Radiation occurs",
+      "answers": {
+        "a": "only from liquids",
+        "b": "only from solids",
+        "c": "only from liquids and solids",
+        "d": "from solids, liquids and gases"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The heat energy reach the earth from sun by",
+      "answers": {
+        "a": "conduction",
+        "b": "convection",
+        "c": "radiation",
+        "d": "all of the above"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}

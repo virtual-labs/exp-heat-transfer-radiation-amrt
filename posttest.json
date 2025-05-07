@@ -1,0 +1,41 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which one of the following is the best surface for absorbing heat radiation",
+      "answers": {
+        "a": "Shiny white",
+        "b": "Dull white",
+        "c": "Shiny black",
+        "d": "Dull black"
+      },
+    
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Emissivity of a black body is",
+      "answers": {
+        "a": "one",
+        "b": "less than one",
+        "c": "greater than one",
+        "d": "zero"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which one of the following is not correct incase of radiation",
+      "answers": {
+        "a": "Radiation travels in straight line",
+        "b": "Radiation can travel through vacuum",
+        "c": "Radiation requires particles to travel",
+        "d": "Radiation travels at a speed of light"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
