@@ -2,36 +2,62 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Radiation occurs",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "only from liquids",
+        "b": "only from solids",
+        "c": "only from liquids and solids",
+        "d": "from solids, liquids and gases"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The heat energy reach the earth from sun by",
+      "answers": {
+        "a": "conduction",
+        "b": "convection",
+        "c": "radiation",
+        "d": "all of the above"
       },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "Which one of the following is the best surface for absorbing heat radiation",
+      "answers": {
+        "a": "Shiny white",
+        "b": "Dull white",
+        "c": "Shiny black",
+        "d": "Dull black"
+      },
+    
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Emissivity of a black body is",
+      "answers": {
+        "a": "one",
+        "b": "less than one",
+        "c": "greater than one",
+        "d": "zero"
+      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which one of the following is not correct incase of radiation",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Radiation travels in straight line",
+        "b": "Radiation can travel through vacuum",
+        "c": "Radiation requires particles to travel",
+        "d": "Radiation travels at a speed of light"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "c",
       "difficulty": "beginner"
     }

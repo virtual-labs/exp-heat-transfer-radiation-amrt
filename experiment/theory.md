@@ -41,7 +41,8 @@ If a sample is replaced by a black body of temperature of same area at same temp
   <img src="./images/figure3.jpg" alt="Figure 1" style="max-width: 300px; height: auto;">
   <p style="text-align: center; font-size: smaller; font-style: italic;"></p>
 </div>
-Consider two flat infinite plates, surface A and surface B, both emitting radiation towards one another. Surface B is assumed to be an ideal emitter $\varepsilon B=1$
+Consider two flat infinite plates, surface A and surface B, both emitting radiation towards one another. Surface B is assumed to be an ideal emitter
+$\varepsilon_{B}$=1.
 
 Surface A will emit radiation according to Stefan's Boltzmann law as
 
@@ -55,7 +56,8 @@ Net heat flow from surface A will be
 
 $$Q=\varepsilon_{A}\sigma T_{A}^{4}=\alpha_{A}\sigma T_{B}^{4}........(3)$$
 
-Now suppose that the two surfaces are at exactly same temperature then $\mu A=\pm A$
+
+Now suppose that the two surfaces are at exactly same temperature then $\varepsilon_{A}=\pm A$
 
 Emissivity of surface will depend on the material of which it is composed.
 The radiation emitted per unit area per unit time from the surface of a body is called its emissive power. The ratio of emissive power of a body to the emissive power of a black body is called emissivity.
@@ -67,7 +69,28 @@ Heat emitted by the test plate per unit area,
 
 $$Q_{p}=\varepsilon_{p}\sigma(T_{p}^{4}-T_{c}^{4}).........(5)$$
 
+$\varepsilon_{b}$ Emissivity of the black plate.
+$\varepsilon_{p}$ Emissivity of the test plate
+$\sigma$ Stefan-Boltzmann constant = $5.67 \times 10^{-8} Wm^{-2}K^{-4}$
+$T_{b}$ Black body temperature in Kelvin
+$T_{c}$ Chamber temperature in Kelvin
+$T_{p}$ Test plate temperature in Kelvin
+$Q_{b}=Q_{p}$ since input power to the two plates is same and conduction heat loss are also same.
 
+Emissivity , 
+$$\varepsilon_{p}=\varepsilon_{b}\frac{T_{b}^{4}-T_{c}^{4}}{T^{4}_{p}-T_{c}^{4}}........(6)$$
 
+### Working
+The same amount of power input is given to both test plate and black plate. After achieving steady state temperature for black plate, it continuously emits radiations and this radiation is completely absorbed by the test plate. But its emit radiation is slightly less than the black body because emissivity depends on nature of the material.
+
+ 
+
+### Applications
+1. In lasers
+2. Microwave ovens
+3. Solariums
+4. Mobile telephones
+5. MRI devices in the magnetic field
+6. Industrial heaters
 
 
